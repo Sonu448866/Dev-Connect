@@ -36,7 +36,7 @@ const Navbar = () => {
       <div className="navbar bg-base-300 shadow-sm">
         <div className="flex-1">
           <Link to={"/"} className="btn btn-ghost text-xl">
-            devTinder
+            DevConnect
           </Link>
         </div>
         <div className="flex gap-2">
